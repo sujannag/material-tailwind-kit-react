@@ -121,14 +121,14 @@ export function Navbar({ brandName, routes, action }) {
 }
 
 Navbar.defaultProps = {
-  brandName: "Material Tailwind React",
+  brandName: "Richmond Rise Residents Association",
   action: (
     <a
-      href="https://www.creative-tim.com/product/material-tailwind-kit-react"
+      href="http://www.richmondrise.info"
       target="_blank"
     >
       <Button variant="gradient" size="sm" fullWidth>
-        free download
+        Contact Us
       </Button>
     </a>
   ),
